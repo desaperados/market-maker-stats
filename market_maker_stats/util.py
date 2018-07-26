@@ -35,7 +35,7 @@ from typing import List, Optional
 from appdirs import user_cache_dir
 from web3 import Web3
 
-import trade_client
+#import trade_client
 from market_maker_stats.model import AllTrade
 from pymaker.numeric import Wad
 
